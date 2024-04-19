@@ -36,6 +36,47 @@
 .dropdown-menu:hover{
     display:block;
 }
+form{
+    margin:auto;
+    width:430px;
+    height:280px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.15) !important;
+    border-radius: 3px;
+    padding:20px 20px 20px 50px;
+}
+form h2{
+    margin-left:20px;
+}
+#city{
+    padding:5px 143px;
+    margin-top:10px;
+}
+#branch{
+    display:block;
+}
+#hy_block,#bg_block{
+    display:none;
+}
+#hyderabad_branch{
+    padding:5px 98px;
+    margin-top:10px;
+}
+#banglore_branch{
+    padding:5px 100px;
+    margin-top:10px;
+}
+#all_branch{
+    padding:5px 140px;
+    margin-top:10px;
+}
+#form_button{
+    padding:10px 20px;
+    color:white;
+    margin:0px 0px 0px 120px;
+    border-radius: 2px;
+    border:none;
+    background-color: green;
+}
 .course{
     height:400px;
     width:100%;
